@@ -1,4 +1,4 @@
-**Leetcode Solutions** To problems posted on the LeetCode platform. They are written in various programming languages and are meant to solve the problem as described in the problem statement.
+<span> <h1>Leetcode Solutions </h1> </span>
 
 To understand a solution, it can be helpful to:
 
@@ -12,4 +12,4 @@ To understand a solution, it can be helpful to:
 
 | # | Title | Solution | Basic idea |
 |---| ----- | -------- | --------------------- |
-| 1 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/KOLEAJEOLAYINKA/leetcode/blob/main/algorithms/python/roman_to_integer.py) | first defines a dictionary that maps Roman numerals to their corresponding integer values. Then, iterates through the characters in the input string s, and for each character, it checks if the next character has a higher integer value. If it does, it subtracts the value of the current character from the running total. If it does not, it adds the value of the current character to the running total. |
+| 1 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/KOLEAJEOLAYINKA/leetcode/blob/main/algorithms/python/roman_to_integer.py) | defines a dictionary that maps Roman numerals to their corresponding integer values. Then, iterates through the characters in the input string s, and for each character, it checks if the next character has a higher integer value. If it does, it subtracts the value of the current character from the running total. If it does not, it adds the value of the current character to the running total. |
